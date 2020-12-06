@@ -138,19 +138,19 @@ header li {
 
 header a {
   display: block;
-  color: #3498db;
+  color: #221D23;
   padding: 10px;
 }
 
 header a:hover {
-  color: #217dbb;
+  color: #070607;
   text-decoration: none;
   background: #eee;
   border-radius: 4px;
 }
 
 header a:focus {
-  color: #3498db;
+  color: #221D23;
   text-decoration: none;
 }
 
@@ -173,7 +173,7 @@ header.sticky {
   position: fixed;
   right: 15px;
   top: 10px;
-  color: #3498db;
+  color: #221D23;
   font-size: 1.5em;
   z-index: 20;
   padding: 0 7px;
@@ -190,7 +190,7 @@ header.sticky {
   padding-right: 15px;
   padding-top: 10px;
   cursor: pointer;
-  color: #3498db;
+  color: #221D23;
 }
 
 #mobile-menu-close span {
@@ -256,7 +256,7 @@ footer {
 }
 
 .social a:hover {
-  color: #3498db;
+  color: #221D23;
 }
 
 .btn-rounded-white {
@@ -270,7 +270,7 @@ footer {
 }
 
 .btn-rounded-white:hover {
-  color: #3498db;
+  color: #221D23;
   background: #fff;
   text-decoration: none;
 }
@@ -302,7 +302,7 @@ footer {
   left: 0;
   right: 0;
   margin: 0 auto;
-  background: #3498db;
+  background: #221D23;
 }
 
 .background-alt {
@@ -350,7 +350,7 @@ footer {
 }
 
 #lead-content h2 {
-  color: #a0cfee;
+  color: #665769;
   font-weight: 500;
   font-size: 2.25em;
   margin-bottom: 15px;
@@ -364,7 +364,7 @@ footer {
   right: 0;
   bottom: 0;
   left: 0;
-  background: rgba(33, 125, 187, 0.8);
+  background: rgba(7, 6, 7, 0.8);
   z-index: 1;
 }
 
@@ -386,7 +386,7 @@ footer {
   width: 35px;
   height: 35px;
   border-radius: 50%;
-  border: 3px solid #a0cfee;
+  border: 3px solid #665769;
   text-align: center;
 }
 
@@ -477,7 +477,7 @@ footer {
   right: auto;
   height: 100%;
   width: 3px;
-  background: #3498db;
+  background: #221D23;
   z-index: 0;
 }
 
@@ -486,9 +486,9 @@ footer {
   content: "";
   width: 3px;
   height: 40px;
-  background: #3498db;
-  background: -webkit-gradient(linear, left top, left bottom, from(#3498db), to(rgba(52, 152, 219, 0)));
-  background: linear-gradient(to bottom, #3498db, rgba(52, 152, 219, 0));
+  background: #221D23;
+  background: -webkit-gradient(linear, left top, left bottom, from(#221D23), to(rgba(34, 29, 35, 0)));
+  background: linear-gradient(to bottom, #221D23, rgba(34, 29, 35, 0));
   top: 100%;
   left: 303px;
 }
@@ -541,7 +541,7 @@ footer {
   color: #fff;
   width: 50px;
   height: 50px;
-  background: #3498db;
+  background: #221D23;
   border-radius: 50%;
   float: left;
   z-index: 99;
@@ -721,7 +721,7 @@ footer {
 */
 #contact {
   padding: 50px 15px;
-  background: #3498db;
+  background: #221D23;
   text-align: center;
 }
 
@@ -744,7 +744,7 @@ footer {
   border-radius: 4px;
   border: none;
   margin-bottom: 10px;
-  background: #1d6fa5;
+  background: black;
   color: #fff;
   -webkit-transition: 0.5s ease all;
   transition: 0.5s ease all;
@@ -775,7 +775,7 @@ footer {
 #contact-form input:focus,
 #contact-form textarea:focus {
   outline: none;
-  background: #16527a;
+  background: black;
 }
 
 #contact-form textarea {
@@ -790,7 +790,7 @@ footer {
   border-radius: 4px;
   padding: 5px 10px;
   border: none;
-  color: #3498db;
+  color: #221D23;
   font-weight: 700;
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
           box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
